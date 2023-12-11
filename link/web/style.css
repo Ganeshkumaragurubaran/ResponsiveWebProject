@@ -1,0 +1,16 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.img img{
+	width:90%;
+}
+.container{
+	width:85%;
+	margin:0 auto;
+}
+.row{
+	display:flex;
+	justify-content:space-around;
+}
